@@ -1,0 +1,35 @@
+.container{
+    
+    background-color: skyblue;
+    width: 500px;
+   text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+.button{
+    height: 30px;
+    width: 100px;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    
+}
+.button:hover{
+    padding: 8px;
+}
+.inputType{
+    height: 20px;
+    width: 200px;
+    margin-left: 80px;
+}
+.inputType1{
+    height: 20px;
+    width: 200px;
+    margin-left: 55px;
+
+}
+.inputType2{
+    height: 20px;
+    width: 200px;
+}
